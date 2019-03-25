@@ -7,3 +7,5 @@ const TodosContext = React.createContext({
 		{ id: 3, text: "Do Project", complete: true }
 	]
 });
+
+export default TodosContext;
